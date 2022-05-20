@@ -8,7 +8,6 @@ Just download the file and run on your server.
 ### Instantiating a client
 
 include_once("rconClass.php");
-
 $host = ''; // Server host name or IP
 $port = ''; // Port rcon is listening on
 $password = ''; // rcon.password setting set in server.properties
